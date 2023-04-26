@@ -1,0 +1,27 @@
+.todo-list {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.details-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.filter-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.filter-container button {
+  margin: 0 5px;
+}
