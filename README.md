@@ -31,10 +31,16 @@ This is a simple Todo List app built with React Native and Redux.
 - React Navigation
 - React Native Elements
 
-Contributing
+## Screenshots
+
+![Todo List App screenshot](/screenshots/todo-list-app.png)
+
+## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+
+![Todo List App Video](/video/1.mp4)
